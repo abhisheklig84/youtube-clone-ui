@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abhisheklig84.github.io/youtube-clone-ui/static/css/main.ff8c0325.chunk.css",
+    "main.js": "/abhisheklig84.github.io/youtube-clone-ui/static/js/main.b9e3d0ed.chunk.js",
+    "main.js.map": "/abhisheklig84.github.io/youtube-clone-ui/static/js/main.b9e3d0ed.chunk.js.map",
+    "runtime-main.js": "/abhisheklig84.github.io/youtube-clone-ui/static/js/runtime-main.4b646ea6.js",
+    "runtime-main.js.map": "/abhisheklig84.github.io/youtube-clone-ui/static/js/runtime-main.4b646ea6.js.map",
+    "static/js/2.bba5680e.chunk.js": "/abhisheklig84.github.io/youtube-clone-ui/static/js/2.bba5680e.chunk.js",
+    "static/js/2.bba5680e.chunk.js.map": "/abhisheklig84.github.io/youtube-clone-ui/static/js/2.bba5680e.chunk.js.map",
+    "static/js/3.2a2e6d9f.chunk.js": "/abhisheklig84.github.io/youtube-clone-ui/static/js/3.2a2e6d9f.chunk.js",
+    "static/js/3.2a2e6d9f.chunk.js.map": "/abhisheklig84.github.io/youtube-clone-ui/static/js/3.2a2e6d9f.chunk.js.map",
+    "index.html": "/abhisheklig84.github.io/youtube-clone-ui/index.html",
+    "static/css/main.ff8c0325.chunk.css.map": "/abhisheklig84.github.io/youtube-clone-ui/static/css/main.ff8c0325.chunk.css.map",
+    "static/js/2.bba5680e.chunk.js.LICENSE.txt": "/abhisheklig84.github.io/youtube-clone-ui/static/js/2.bba5680e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b646ea6.js",
+    "static/js/2.bba5680e.chunk.js",
+    "static/css/main.ff8c0325.chunk.css",
+    "static/js/main.b9e3d0ed.chunk.js"
+  ]
+}
